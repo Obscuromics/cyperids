@@ -6,3 +6,6 @@ Firstly, BUSCO tables for internal nodes need to be fabricated, having the same 
 
 #### clade_rearrangement_comparisons.R
 This script takes rearrangement numbers and a newick tree (see /data) to compare rearrangement rates between Cyperaceae and Juncaceae, and between Carex and non-Carex Cyperaceae.
+
+#### heterozygosity.R
+This script compares heterozygosity to rearrangement rates along terminal branches (input files in /data)
