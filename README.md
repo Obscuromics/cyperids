@@ -12,3 +12,6 @@ This script compares heterozygosity to rearrangement rates along terminal branch
 
 #### modelling_fusion_probability.R
 This script runs the simulations/MLE for the four models described in Supplementary Text 2, and includes the plotting scripts for the relevant visualisations. Input files are found in /data.
+
+#### round_1-4_consensus_building.sh
+Concatenates RepeatModeler round 1-4 consensi.
