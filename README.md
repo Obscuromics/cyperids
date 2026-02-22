@@ -18,3 +18,8 @@ Concatenates RepeatModeler round 1-4 consensi.
 
 #### satellite_jaccards.R
 Computes 8-mer Jaccard similarity between consensus sequences for each candidate oligocentromere family per species (see /data for consensus sequences).
+
+#### oligocentromere_enrichment_and_decay.R
+Takes scores of CDS overlap, TE overlap, and candidate centromeric satellite overlap of 5 kb windows from each species (see /data/window-data) and calculates and visualises TE enrichment and gene decay with proximity to the centromeres.
+
+
