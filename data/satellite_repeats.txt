@@ -1,0 +1,36 @@
+Species	Centromeric repeat
+Bolboschoenus planiculmis	"182_5, 48_22"
+Carex acutiformis	81_10
+Carex arenaria	124_1
+Carex caryophyllea	81_4
+Carex depauperata	81_2
+Carex distans	81_1
+Carex divulsa	124_1
+Carex echinata	124_1
+Carex elata	81_3
+Carex extensa	81_6
+Carex hirta	81_5
+Carex laevigata	81_4
+Carex littledalei	"81_3, 60_1, 125_35, 438_26"
+Carex myosuroides	"81_9, 7_8, 60_10, 440_42, 177_1"
+Carex nigra	81_2
+Carex pendula	81_3
+Carex riparia	81_3
+Carex rostrata	81_5
+Carex spicata	124_1
+Carex sylvatica	81_3
+Cyperus fuscus	325_1
+Cyperus rotundus	
+Eriophorum angustifolium	"31_5, 704_6"
+Eriophorum vaginatum	"30_1, 703_4, 132_14"
+Juncus effusus	"147_1, 182_4"
+Juncus inflexus	"155_1, 182_7"
+Juncus squarrosus	157_1
+Luzula pallescens	"125_3, 175_5, 104_2"
+Luzula sylvatica	"124_1, 174_2"
+Rhynchospora breviuscula	172_4
+Rhynchospora tenuis	173_2
+Schoenus nigricans	"188_1, 168_3"
+Scirpus sylvaticus	"31_4, 40_5"
+Trichophorum cespitosum	"40_4, 123_17, 131_27, 105_74"
+x Bolboschoenoplectus mariqueter	"182_3, 48_25"
