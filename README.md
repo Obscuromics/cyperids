@@ -33,3 +33,6 @@ Takes the csv file output of satellite_windows.py to calculate the lengths of ea
 
 #### oligocentromere_rearrangement_analysis.R
 R script for statistical analysis and visualisations of the relationships between oligocentromere organisation variables, rearrangement rate, rearrangement history, and chromosome size.
+
+#### breakpoint_analysis.R
+Creates synteny plots to identify breakpoint regions as fissions or fusions, statistically tests for enrichment of breakpoint regions in TEs, genes, and oligocentromeres, plots chromosome cartoons with breakpoint regions overlaid. 
