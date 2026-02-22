@@ -1,7 +1,7 @@
 # cyperids
 
 #### mEvaluate.sh
-Compares the number of markers at a node, and the number of ALGs inferred, for syngraph inferences with different values of m. Requires plot_alg_numbers.py and plot_stacked_markers_across_m.py.
+Compares the number of markers at a node, and the number of ALGs inferred, for syngraph inferences with different values of m. Requires plot_alg_numbers.py and plot_stacked_markers_across_m.py. It also requires a directory containing syngraph outputs for the trialled values of m. 
 
 #### fission_fusion_counter_plus.sh
 This script takes _summary.tsv files from https://github.com/charlottewright/lep_busco_painter.
