@@ -1,0 +1,37 @@
+﻿Species,Family,Genus,rearr_per_my,fusions_per_my,fissions_per_my
+Bolboschoenus planiculmis,Cyperaceae,non-Carex,0.936507937,0.174603175,0.761904762
+Carex acutiformis,Cyperaceae,Carex,1.142857143,0.412698413,0.73015873
+Carex arenaria,Cyperaceae,Carex,1.142857143,0.476190476,0.666666667
+Carex caryophyllea,Cyperaceae,Carex,1.317460317,0.492063492,0.825396825
+Carex depauperata,Cyperaceae,Carex,1.031746032,0.444444444,0.587301587
+Carex distans,Cyperaceae,Carex,1.73015873,0.714285714,1.015873016
+Carex divulsa,Cyperaceae,Carex,1.174603175,0.492063492,0.682539683
+Carex echinata,Cyperaceae,Carex,1.396825397,0.587301587,0.80952381
+Carex elata,Cyperaceae,Carex,1.111111111,0.396825397,0.714285714
+Carex extensa,Cyperaceae,Carex,1.904761905,0.841269841,1.063492063
+Carex hirta,Cyperaceae,Carex,1.492063492,0.444444444,1.047619048
+Carex laevigata,Cyperaceae,Carex,2.238095238,0.968253968,1.26984127
+Carex littledalei,Cyperaceae,Carex,1.301587302,0.53968254,0.761904762
+Carex myosuroides,Cyperaceae,Carex,1.333333333,0.555555556,0.777777778
+Carex nigra,Cyperaceae,Carex,1.142857143,0.380952381,0.761904762
+Carex pendula,Cyperaceae,Carex,1.603174603,0.682539683,0.920634921
+Carex riparia,Cyperaceae,Carex,1.253968254,0.492063492,0.761904762
+Carex rostrata,Cyperaceae,Carex,1.174603175,0.46031746,0.714285714
+Carex spicata,Cyperaceae,Carex,1.365079365,0.571428571,0.793650794
+Carex sylvatica,Cyperaceae,Carex,1.507936508,0.650793651,0.857142857
+Cyperus fuscus,Cyperaceae,non-Carex,1.079365079,0.476190476,0.603174603
+Cyperus rotundus,Cyperaceae,non-Carex,1.492063492,0.428571429,1.063492063
+Eleocharis parvula,Cyperaceae,non-Carex,0.793650794,0.428571429,0.365079365
+Eriophorum angustifolium,Cyperaceae,non-Carex,0.825396825,0.317460318,0.507936508
+Eriophorum vaginatum,Cyperaceae,non-Carex,0.825396825,0.317460318,0.507936508
+Juncus effusus,Juncaceae,NA,0.418181818,0.072727273,0.345454546
+Juncus inflexus,Juncaceae,NA,0.345454546,0.036363636,0.309090909
+Juncus squarrosus,Juncaceae,NA,0.290909091,0.018181818,0.272727273
+Luzula pallescens,Juncaceae,NA,0.218181818,0.109090909,0.109090909
+Luzula sylvatica,Juncaceae,NA,0.145454546,0.072727273,0.072727273
+Rhynchospora breviuscula,Cyperaceae,non-Carex,0.222222222,0.142857143,0.079365079
+Rhynchospora tenuis,Cyperaceae,non-Carex,0.174603175,0.142857143,0.031746032
+Schoenus nigricans,Cyperaceae,non-Carex,0.365079365,0.095238095,0.26984127
+Scirpus sylvaticus,Cyperaceae,non-Carex,0.698412698,0.238095238,0.46031746
+Trichophorum cespitosum,Cyperaceae,non-Carex,1.174603175,0.317460318,0.857142857
+x Bolboschoenoplectus mariqueter,Cyperaceae,non-Carex,0.936507937,0.174603175,0.761904762
