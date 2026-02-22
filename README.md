@@ -17,4 +17,4 @@ This script runs the simulations/MLE for the four models described in Supplement
 Concatenates RepeatModeler round 1-4 consensi.
 
 #### satellite_jaccards.R
-Computes 8-mer Jaccard similarity between consensus sequences for each candidate oligocentromere family per species (see /data for consensus sequences)
+Computes 8-mer Jaccard similarity between consensus sequences for each candidate oligocentromere family per species (see /data for consensus sequences).
