@@ -9,3 +9,6 @@ This script takes rearrangement numbers and a newick tree (see /data) to compare
 
 #### heterozygosity.R
 This script compares heterozygosity to rearrangement rates along terminal branches (input files in /data)
+
+#### modelling_fusion_probability.R
+This script runs the simulations/MLE for the four models described in Supplementary Text 2, and includes the plotting scripts for the relevant visualisations. Input files are found in /data.
