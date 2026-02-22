@@ -36,3 +36,6 @@ R script for statistical analysis and visualisations of the relationships betwee
 
 #### breakpoint_analysis.R
 Creates synteny plots to identify breakpoint regions as fissions or fusions, statistically tests for enrichment of breakpoint regions in TEs, genes, and oligocentromeres, plots chromosome cartoons with breakpoint regions overlaid. 
+
+#### BreakID_full_pipeline.sh 
+This takes the _complete_location.tsv output files of lep_busco_painter (https://github.com/charlottewright/lep_busco_painter), genome fasta files, and, if available, existing minimap alignments (otherwise it will perform the minimap alignments). It will then identify breakpoint regions and attempt to classify them using BUSCOs, with the keyoutput file being the break_intervals_classified.txt files, but the breakpoint classifications should be verified using the synteny plots produced at the beginning of breakpoint_analysis.R. 
