@@ -1,0 +1,9 @@
+chr	group	break_start	break_end	class
+OZ365374.1	1	20950000	21340000	undefined
+OZ365375.1	2	2950000	3150000	fusion in Carex spicata
+OZ365377.1	3	4800000	5010000	fusion in Carex spicata
+OZ365380.1	4	5340000	5500000	fusion in Carex spicata
+OZ365380.1	5	9330000	9490000	fusion in Carex spicata
+OZ365381.1	6	10330000	10430000	fusion in Carex spicata
+OZ365382.1	7	8910000	9130000	fusion in Carex spicata
+OZ365400.1	8	510000	570000	undefined

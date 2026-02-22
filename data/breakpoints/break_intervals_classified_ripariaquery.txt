@@ -1,0 +1,39 @@
+chr	group	break_start	break_end	class
+OZ206386.1	1	1860000	2470000	undefined
+OZ206386.1	2	7670000	7900000	fusion in Carex riparia
+OZ206386.1	3	13830000	14250000	fusion in Carex riparia
+OZ206387.1	4	560000	930000	undefined
+OZ206387.1	5	2430000	2820000	undefined
+OZ206387.1	6	5780000	6660000	undefined
+OZ206387.1	7	8480000	10890000	fission in Carex hirta
+OZ206387.1	8	13560000	15150000	undefined
+OZ206388.1	9	6950000	7440000	fusion in Carex riparia
+OZ206389.1	10	8360000	8710000	fission in Carex hirta
+OZ206390.1	11	6330000	6400000	fission in Carex hirta
+OZ206390.1	12	11510000	11940000	fission in Carex hirta
+OZ206391.1	13	6140000	6480000	fission in Carex hirta
+OZ206392.1	14	7380000	8020000	fission in Carex hirta
+OZ206393.1	15	7070000	7300000	fission in Carex hirta
+OZ206394.1	16	4520000	4980000	fission in Carex hirta
+OZ206395.1	17	780000	1210000	fission in Carex hirta
+OZ206395.1	18	4640000	4820000	fission in Carex hirta
+OZ206396.1	19	9540000	11130000	undefined
+OZ206397.1	20	2050000	2130000	undefined
+OZ206397.1	21	7520000	8010000	fission in Carex hirta
+OZ206397.1	22	10610000	10750000	undefined
+OZ206398.1	23	4530000	5240000	fission in Carex hirta
+OZ206398.1	24	10570000	10740000	fusion in Carex riparia
+OZ206399.1	25	2660000	3080000	fission in Carex hirta
+OZ206400.1	26	6e+05	860000	undefined
+OZ206400.1	27	5220000	5350000	fission in Carex hirta
+OZ206402.1	28	530000	840000	fission in Carex hirta
+OZ206402.1	29	5720000	5860000	fission in Carex hirta
+OZ206404.1	30	5330000	5500000	fission in Carex hirta
+OZ206405.1	31	6630000	6750000	fission in Carex hirta
+OZ206406.1	32	6650000	7090000	fission in Carex hirta
+OZ206409.1	33	2500000	2790000	fission in Carex hirta
+OZ206411.1	34	6840000	7030000	fusion in Carex riparia
+OZ206412.1	35	6310000	6650000	undefined
+OZ206413.1	36	3470000	3650000	fission in Carex hirta
+OZ206416.1	37	5890000	6060000	undefined
+OZ206417.1	38	640000	910000	undefined
