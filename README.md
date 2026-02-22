@@ -28,4 +28,5 @@ Creates augmented versions of the csv files produced with satellite_windows.py t
 #### oligocentromere_enrichment_and_decay.R
 Takes scores of CDS overlap, TE overlap, and candidate centromeric satellite overlap of 5 kb windows from each species (see /data/window-data) and calculates and visualises TE enrichment and gene decay with proximity to the centromeres.
 
-
+#### extract_array_gap_lengths.py
+Takes the csv file output of satellite_windows.py to calculate the lengths of each array and inter-array gap, recording species and chromosome.
