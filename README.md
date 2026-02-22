@@ -30,3 +30,6 @@ Takes scores of CDS overlap, TE overlap, and candidate centromeric satellite ove
 
 #### extract_array_gap_lengths.py
 Takes the csv file output of satellite_windows.py to calculate the lengths of each array and inter-array gap, recording species and chromosome.
+
+#### oligocentromere_rearrangement_analysis.R
+R script for statistical analysis and visualisations of the relationships between oligocentromere organisation variables, rearrangement rate, rearrangement history, and chromosome size.
