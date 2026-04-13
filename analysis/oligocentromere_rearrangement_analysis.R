@@ -369,6 +369,14 @@ stack_fusion <- loo_model_weights(
 
 stack_fusion
 
+#Evaluating predictive performance of the array density model with posterior predictive intervals for each species
+post_preds_density <- posterior_predict(fit_density_fusion, ndraws = 1000)
+pred_lower_density <- apply(post_preds_density, 2, quantile, probs = 0.025)
+pred_upper_density <- apply(post_preds_density, 2, quantile, probs = 0.975)
+interval_width_density <- pred_upper_density - pred_lower_density
+median(interval_width_density)
+mean(interval_width_density)
+
 posterior_summary(fit_amount_fusion, pars = "^b_")
 
 #### model comparison - fission.
@@ -983,6 +991,17 @@ stack_chrsize <- loo_model_weights(
 )
 
 stack_chrsize
+
+#posterior predictive intervals for the share model of chr. size.
+post_preds_share <- posterior_predict(fit_shareonly_chrsize, ndraws = 1000)
+pred_lower_share <- apply(post_preds_share, 2, quantile, probs = 0.025)
+pred_upper_share <- apply(post_preds_share, 2, quantile, probs = 0.975)
+interval_width_share <- pred_upper_share - pred_lower_share
+median(interval_width_share)
+mean(interval_width_share)
+#relative to the observed range...
+max(chromosome_data_extended$log_nonoligo_chrsize_sc)
+min(chromosome_data_extended$log_nonoligo_chrsize_sc)
 
 posterior_summary(fit_geometry_chrsize, pars = "^b_")
 
